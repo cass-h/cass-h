@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning to enjoy imperfect small projects
 - 🏳️‍🌈 they/she
 
-### Française 
+### Français
 
 - 👋 Bonjour, je m'appelle @cass-h
 - 👀 Je suis intéressée à l'accessibilité, de l'improvement progressive, et au développement de systèmes de design
