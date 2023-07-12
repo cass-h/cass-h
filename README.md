@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @cass-h
 - 👀 I’m interested in accessibility, progressive improvement, and design system development
-- 🌱 I’m currently re-learning React, and UX design
+- 🌱 I’m currently and UX design
 - ✍️ Current fixation: translating Gioanne Philotheo Achillino's sword and buckler strettas
 - 🏳️‍🌈 they/them
 
@@ -10,7 +10,7 @@
 
 - 👋 Bonjour, je m'appelle @cass-h
 - 👀 Je suis intéressé à l'accessibilité, de l'improvement progressive, et au développement de systèmes de design
-- 🌱 Je réapprends React, et la conception UX
+- 🌱 J'apprends la conception UX
 - ✍️ Fixation de l'heure: traduire les croisements avec l'épée et bouclier de Gioanne Philotheo Achillino
 - 🏳️‍🌈 eil
 
