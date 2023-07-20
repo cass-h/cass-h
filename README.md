@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @cass-h
 - 👀 I’m interested in accessibility, progressive improvement, and design system development
-- 🌱 I’m currently and UX design
+- 🌱 I’m currently learning UX design
 - ✍️ Current fixation: translating Gioanne Philotheo Achillino's sword and buckler strettas
 - 🏳️‍🌈 they/them
 
