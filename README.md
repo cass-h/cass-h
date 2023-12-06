@@ -14,6 +14,13 @@
 - ✍️ Projet de l'heure: traduire les croisements avec l'épée et bouclier de Gioanne Philotheo Achillino
 - 🏳️‍🌈 iel
 
+### Italiano 🇮🇹
+
+- 👋 ciao, mi chiamo @cass-h
+- 👀 sono interessato all'accessibilità, il miglioramento progressivo, e il sviluppo dei design systems
+- 🌱 Sto imparando MS Dynamics, Quarto e LaTeX
+- ✍️ mio progetto corrente: faccia una traduzione delle strette del spada e brocchiero de Gioanne Philotheo Achillino
+- 🏳️‍🌈 ?
 <!---
 Please tell me about my bad French and Italian
 --->
